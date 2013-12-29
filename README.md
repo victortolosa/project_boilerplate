@@ -1,6 +1,7 @@
-#Install Grunt
+#Setup Grunt 
 
 **Root Directory**
+
 *requires 'package.json'*
 	npm install
 	
@@ -9,5 +10,6 @@
 *requires 'gruntfile.js' for plugin configuration*
 
 **Install Grunt Plugin**
+
 	npm install insert-npm-plugin-source --save-dev
 
