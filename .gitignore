@@ -1,2 +1,7 @@
-#Grunt Build Files
-node_modules/
+node_modules
+.DS_store
+.sass-cache
+css.build.css.map
+css.build.css
+js/production.js
+js/production.min.js
